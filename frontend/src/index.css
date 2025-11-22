@@ -1,0 +1,4 @@
+/* src/index.css - minimal */
+body { font-family: Arial, Helvetica, sans-serif; margin: 0; }
+input { display:block; padding:8px; margin:8px 0; width:100%; box-sizing:border-box; }
+button { padding: 8px 12px; margin:4px; }
